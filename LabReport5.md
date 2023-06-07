@@ -29,7 +29,7 @@ The student ended up adding echo statements on line 15, 18, 20, and 22 to get ad
 # Summary of Findings
 This section includes how I created this example, how it runs, and how it should be fixed.
 
-Firstly, below is the file and directory structure that is used for this example. However, I was using a repository created by the professor/TAs and I was only using a section of it. So the only files that are actually important in the screenshot are grade.sh, ListExamples.java, and TestListExamples,java.  
+Firstly, below is the file and directory structure that is used for this example. However, I was using a repository created by the professor/TAs and I was only using a section of it. So the only files that are actually important in the screenshot are grade.sh, ListExamples.java, and TestListExamples.java.  
 ![directory](directory1.png)
 
 Below is the code before the bug is fixed. The only file I actually edited is grade.sh but I included ListExamples.java and TestListExamples.java (in order) so you can see what the code is running. 
