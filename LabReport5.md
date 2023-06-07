@@ -42,3 +42,6 @@ Below is the command I ran to trigger the bug and the output.
 
 To fix the bug you simply change cp to -cp on lines 19 and 21 as seen in the image below.
 ![fixed code](code3.png)
+
+# Lab Report 5: Part 2
+Something I learned from my lab experience is running commands can be done in a variety of ways. You can run commands from the terminal, in a script, and even in java. I had no idea that there were so many ways to run a command which also makes coding far more versatile than I realized. During the labs, whenever I consulted one of my lab group members, they always had a different way to approach the problem. Some people would fix an error using vim, others would simply go into the code and change the error there, some would just use the script to analyze their mistakes. I thought it was really cool that each person could use a different approach to get to the same end result and it involved doing it in their own way.
