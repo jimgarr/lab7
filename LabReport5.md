@@ -1,7 +1,7 @@
-# Lab Report 5
+# Lab Report 5: Part 1
 This lab report includes creating a debugging scenario I have to simulate a bug and working with a TA to test what is causing the big and then eventually fixing it. 
 
-# Part 1: The Symptom
+# The Symptom 
 Included in this section is an example of a symptom produced by a bug in a code and a student asking on EdStem how to work through the issue. The example EdStem post will be following the template that is given on the website when trying to make a post to make it as realistic as possible. This code is not my own but actually the ListExamplesGrader repository from one of the previous labs. I just changed some of the code to produce an error. For simplicity's sake I'm going to take the position that it is my code since it's just an example. Taking the postition of the student, the EdStem post would look something like the following:
 
 I'm using VSCode on my laptop and I'm running a scipt called grade.sh using bash. 
@@ -13,4 +13,9 @@ The program is supposed to take in a student submission for a coding assignment 
 
 ![Code](code1.png)
 
-# Part 2: TA Response
+# TA Response
+This section includes taking the stance of the TA as they respond to my post. Their response would look something like:
+
+I agree that your symptom is coming from those lines of code. I recommend including more echo statements within your script that can give you information on which part of the code is giving you the error. If that doesn't help, I would notice the colors that VSCode uses to differentiate the kinds of keywords and phrases in the script. I'm noticing a discrepancy within some of your lines meaning you are likely using the wrong command or are using it incorrectly. I would specifically use line 29 as a comparison to understand what I'm referencing. 
+
+# 
